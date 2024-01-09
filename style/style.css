@@ -1,3 +1,15 @@
 .file-path{
     color:red;
 }
+.container{
+    background-image:url("../images/flower02.jpg");
+height:1000px;
+}
+
+.img-file{
+    height: 500px;
+}
+
+img-file2{
+    height:700px
+}
