@@ -4,12 +4,15 @@
 .container{
     background-image:url("../images/flower02.jpg");
 height:1000px;
+width:500px
 }
 
 .img-file{
     height: 500px;
+    width: 350px;
 }
 
 img-file2{
-    height:700px
+    height:700px;
+    width:300px;
 }
